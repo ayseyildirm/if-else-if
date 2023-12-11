@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\bin\Debug\net8.0\if-else-if.exe
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\bin\Debug\net8.0\if-else-if.deps.json
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\bin\Debug\net8.0\if-else-if.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\bin\Debug\net8.0\if-else-if.dll
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\bin\Debug\net8.0\if-else-if.pdb
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\obj\Debug\net8.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\obj\Debug\net8.0\if-else-if.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\obj\Debug\net8.0\if-else-if.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\obj\Debug\net8.0\if-else-if.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\obj\Debug\net8.0\if-else-if.dll
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\obj\Debug\net8.0\refint\if-else-if.dll
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\obj\Debug\net8.0\if-else-if.pdb
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\obj\Debug\net8.0\if-else-if.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pratikler\if-else-if\obj\Debug\net8.0\ref\if-else-if.dll
